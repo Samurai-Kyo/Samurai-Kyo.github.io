@@ -71,9 +71,9 @@
         "traits": "Philanthropist. Civic.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000.png",
-        "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000.png",
+        "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000b.png",
-        "back_thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000b.png"
+        "back_thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40000-mini.png"
       },
       {
         "back_flavor": "Jack always had a knack for getting people what they needed, and for a low enough price to raise eyebrows. As he moved from job to job, he found that he could help people who were in too deep, but only if he was willing to take on the burden himself. His debt grew with each person he saved, and so did the shadiness of his activities. Eventually, he found the police knocking on his door, so he fled into the depths of Arkham. These days, Jack can be found in dark alleys, making deals that the police could hardly imagine, to pay off his most recent debt.",
@@ -117,6 +117,7 @@
         "traits": "Criminal. Mafia.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40004.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40004-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40004b.png"
       },
       {
@@ -172,6 +173,7 @@
         "traits": "Philanthropist. Criminal.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40007.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40007-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40007b.png"
       },
       {
@@ -231,6 +233,7 @@
         "traits": "Cursed. Abandoned.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40011.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40011-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40011b.png"
       },
       {
@@ -283,6 +286,7 @@
         "traits": "Chosen. Drifter.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40014.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40014-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40014b.png"
       },
       {
@@ -345,6 +349,7 @@
         "traits": "Wayfarer.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40017.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40017-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40017b.png"
       },
       {
@@ -396,6 +401,7 @@
         "traits": "Criminal. Medic.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40022.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40022-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40022b.png"
       },
       {
@@ -449,6 +455,7 @@
         "traits": "Criminal. Socialite.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40028.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40028-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40028b.png"
       },
       {
@@ -519,6 +526,7 @@
         "traits": "Criminal. Drifter.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40031.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40031-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40031b.png"
       },
       {
@@ -579,6 +587,7 @@
         "traits": "[REDACTED]. Civic.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40034.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40034-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40034b.png"
       },
       {
@@ -649,6 +658,7 @@
         "traits": "Criminal. Hunter.",
         "type_code": "investigator",
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40039.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40039-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40039b.png"
       },
       {
@@ -774,6 +784,7 @@
         "type_code": "investigator"
 		,
 		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040.png",
+		"thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040-mini.png",
         "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040b.png"
       },
       {
