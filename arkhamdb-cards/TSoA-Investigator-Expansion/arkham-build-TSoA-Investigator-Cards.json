@@ -115,7 +115,9 @@
         "subname": "The Black Market Dealer",
         "text": "Handlocked.\n[reaction] When you play the left most non-signature card in your hand: Reduce the cost of that card by 1 for every 3 other cards in your hand (limit once per round).\n[elder_sign] effect: +1, if you succeed; draw a card and you may move a card in your hand up to 3 positions to the left or right.",
         "traits": "Criminal. Mafia.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40004.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40004b.png"
       },
       {
         "back_flavor": "Akira Hojo lived with his father who worked as a doctor in a dangerously unstable country. When the chaos erupted, it took everything from him. He gathered together other suffering children to survive. With Chiaki Asami and few others, he fled the country. Only he and Chiaki managed to survive the journey. When he reached the safety of Arkham, he was met with by a dark, warped city. He decided he would reform the criminal underbelly of Arkham. He vowed to turn these gangsters into a force that could protect Arkham from the anything, be it man or monster.",
@@ -168,7 +170,9 @@
         "subname": "The Underdog",
         "text": "[reaction] When you initiate a [combat] test, spend 1 resource: Add your [agility] value to your skill value for this attack. If you succeed by 1 or more, gain 1 resource. If you succeed by 3 or more, gain 1 additional resource (limit once per round).\n[elder_sign] effect: +1. If the resolution of this test defeats an enemy; gain 1 resource.",
         "traits": "Philanthropist. Criminal.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40007.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40007b.png"
       },
       {
         "back_flavor": "The people around Alma always met gruesome fates. As an orphan, whenever she grew close to others, they suffered. As she got older, she realized she was the source of their misfortune---and their deaths. Distraught, she wandered into the depths of Arkham, where she found them: people who didn't care that she was a cursed existence, because they were already damned. She stood up for these kindred souls, who had been left for dead. Together, with new purpose, they would resist the fate forced upon them. She would stand vigil over the Damned as they rewrote their fate.",
@@ -225,7 +229,9 @@
         "subname": "The Vigil",
         "text": "Reduce the cost of the first non-unique <b><i>Ally</i></b> you play each round by 1. You have an additional ally slot that can only be used to hold non-unique allies.\nOther investigators at your location and connecting locations may use your <b><i>Ally</i></b> assets to:\n-  Assign damage and/or horror.\n-  If ready, use a [action], [free], or [reaction] ability as if they controlled it, then exhaust it.\n[elder_sign]: +1. You may heal 1 damage or 1 horror from an <b><i>Ally</i></b> asset at your location.",
         "traits": "Cursed. Abandoned.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40011.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40011b.png"
       },
       {
         "back_flavor": "During every age, terrors would try to invade the world. While most of humanity remained unaware, William was there, holding the final line between the world and the forces outside its understanding. From place to place, age to age, whenever the tides of madness began, he was there, waiting. Sometimes, he wonders if he holds back the chaos, or if his birth marks the start of the apocalypse.",
@@ -275,7 +281,9 @@
         "subname": "The Reborn",
         "text": "[reaction] After you commit a card to a skill test on a scenario card: The commited card gains [wild]. If this test is successful, draw 1 card. If another investigator succeeded this test by 2 or more, they draw 1 card. (Limit once per phase.)\n[elder_sign] effect: +1. You may heal 1 horror from an investigator at your location.",
         "traits": "Chosen. Drifter.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40014.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40014b.png"
       },
       {
         "back_flavor": "Elise, an traveler from England, fled the constraints of her bourgeois Parisian family to chase the world’s mysteries. With camera in hand and album full of wonders, she wandered from Cairo to Kolkata, chasing whispers ranging from the fanatical to the arcane. Her travels brought her to the foggy shores of Innsmouth, Massachusetts. Drawn by rumors of mysterious sightings and ancient ruins, Elise expected only photographs and ghost stories—until she found more than just rumors waiting for her. Her endless curiosity dissuades the cautious and attracts the dangerous as she ventures into the unknown.",
@@ -335,7 +343,9 @@
         "subname": "The Tourist",
         "text": "[reaction] When you draw a non-weakness card from your deck, before resolving any of its effects, discard it: Add one of your set-aside A Sight to See events to your hand. (Limit once per round.)\n[elder_sign] effect: +1. You may discard 1 card from your hand, then draw 1 card.",
         "traits": "Wayfarer.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40017.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40017b.png"
       },
       {
         "back_flavor": "At the Clover Club, Amelia pours drinks for the weary of Arkham. The gamblers, drifters, and lost souls come for whiskey and respite, but some bring whispers of things unseen.\nAs a child, she watched the sea writhe with shapes too vast to be real. Her father vanished there when they crossed the sea. Now, in the club’s dim glow, stories of such shapes creep into the sailors ramblings. And at night, she hears a voice off the horizon, whispering her name.",
@@ -384,7 +394,9 @@
         "subname": "The Bartender",
         "text": "Investigators at your location can play event cards beneath Amelia Barrett as if they were in their hand, reducing its resource cost by 1.\n[reaction] After 1 or more damage/horror is assigned to player card your location and there are less than 3 cards beneath this card: Search the top 5 cards of your deck for a <b><i>Spirit</i></b> event and place it beneath this card. Shuffle your deck. (Limit once per round.)\n[elder_sign] +1. You may shuffle a <b><i>Spirit</i></b> event from your discard into your deck.",
         "traits": "Criminal. Medic.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40022.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40022b.png"
       },
       {
         "back_flavor": "Growing up on the streets of Armenia, Armen Seropian was surrounded by risk at every turn. While others hesitated, he gambled everything just to see another tomorrow. However, when the Soviets invaded, even Armen recognized a risk too great to take and fled to America. There, he built a reputation as an unmatched gambler, eventually catching the attention of The Syndicate—a powerful, shadowy organization. Forced into what could have been the last game of his life, Armen narrowly won and escaped with his life. But his victory was short-lived. The Syndicate does not lose, and Armen could never truly be allowed to win. Now, he is a marked man, for no can be that lucky. Right?",
@@ -435,7 +447,9 @@
         "subname": "The Gambler",
         "text": "Playing cards and triggering abilities that can cause you to gain resources ignore attacks of opportunity.\n[reaction] When you gain at least 2 resources: Either... (Limit once per phase.)\n-  Gain 1 resource.\n-  Lose 1 resource and you get +2 skill value for the next test you perform this round. If you succeed, gain 2 resources.\n[elder_sign] effect: +2. The next time you gain resources this round, increase the amount you gain by 1.",
         "traits": "Criminal. Socialite.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40028.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40028b.png"
       },
       {
         "back_flavor": "For Wick, his wife was the only light in his life. After her mysterious death, he followed the bloody trail to the door of his own employer. The Syndicate's sudden betrayal was shocking-until Wick uncovers the truth. His wife’s death was no accident, but a failed ritual by a hidden cult festering within the Syndicate. Once their deadliest weapon, he's now their most hunted prey. The underworld turns against him, contracts placed on his head, allies vanish like smoke. Yet Wick moves through the shadows, a ghost of vengeance, hunting the traitors. Every step bringing him closer to where his revenge awaits, and madness whispers his name.",
@@ -503,7 +517,9 @@
         "subname": "The Hunted",
         "text": "[action] abilities that spend all remaining ammo on a <b><i>Firearm</i></b> asset you control deal +1 damage.\n[reaction] After you defeat an enemy without using an ability on a <b><i>Firearm</i></b> asset: Choose a <b><i>Firearm</i></b> asset in your discard pile. Either add it to your hand or play it. (Limit once per round.)\n[elder_sign]: +1. After this test ends, you may replenish 1 use on a <b><i>Firearm</i></b> asset you control.",
         "traits": "Criminal. Drifter.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40031.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40031b.png"
       },
       {
         "back_flavor": "File #56–X\nSubject Class: Yellow\nReal Identity: Unknown \nLast Known Location: Arkham, Massachusetts\nDescription: Subject #56–X (hereinafter \"John Smith\") is a person of approximately 182.88cm in height. At all times, subject wears a traditional western suit and defective wristwatch. All other features vary by report, including perceived age, gender, and nationality.\nParadimensional Capabilities: John Smith changes their appearance over time, making tracking difficult. Reports of temporal distortions resulting in relocation of nearby personal. Subject avoids contact with the organization.\nApproach Procedure: Exercise extreme caution regarding potential paradimensional disturbances.",
@@ -561,7 +577,9 @@
         "subname": "[REDACTED]",
         "text": "Reduce the difficulty of skill tests you perform while resolving revelation abilities on encounter cards by 1.\n[reaction] When a player card causes you draw a non-weakness encounter card: Cancel all of that card's effects and place it on the bottom of the encounter deck. Then, draw another card from the top of the encounter deck. (Limit once per round).\n[elder_sign]: +1. Place 1 resource on Out of Sight as a fragment.",
         "traits": "[REDACTED]. Civic.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40034.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40034b.png"
       },
       {
         "back_flavor": "Across the underworld, Wick name is whispered in feared as the Syndicate's enforcer—taking lives across the globe. Orphaned as a child, he was raised by the Syndicate to kill without mercy. It's said he once silenced an entire gang in a single night. When his wife, the only light in his cursed life, died mysteriously, he found a trail of strange signs and eldritch horrors. Armed with years of deadly experiences, Wick hunts cultists, monsters, and cosmic horrors alike, following the trail to it's source.",
@@ -629,7 +647,9 @@
         "subname": "The Hunter",
         "text": "[reaction] When you play a <b><i>Tactic</i></b> or <b><i>Trick</i></b> event: Reduce it's cost by 1. Then, you may resolve a [action] on a <b><i>Firearm</i></b> asset you control. (Limit once per round.)\n[elder_sign]: +1. If you succeed by 2 or more, ready a <b><i>Weapon</i></b> you control. If you succeed by 4 or more, draw 1 card.",
         "traits": "Criminal. Hunter.",
-        "type_code": "investigator"
+        "type_code": "investigator",
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40039.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40039b.png"
       },
       {
         "back_flavor": "From boyhood, Elijah Simmons dreamed in impossible colors—of lost cities, whispering gods, and skies that bent the stars. His tales made others laugh, but he always knew they were more than dreams. In retirement, drawn to quiet Kingsport, sleep became stranger still. Now he meets other Elijahs—older, broken, waiting. They wear different faces, but speak with one voice: “Stop what’s coming, or you’ll join us. Another echo in the dream.” Haunted and unsure, Elijah wakes each night with their warning. With the wisdom of a thousand voices, he must tell his own story.",
@@ -752,6 +772,9 @@
         "text": "Your event cards that <b>Fight</b>, <b>Investigate</b>, or <b>Evade</b> gain <b>Parley</b> while there is an enemy at your location.\n[free] While performing a skill test on an event card: Commit a skill from the discard pile of an investigator who resolved an event this round. After this test ends, shuffle the chosen skill into the owners deck. (Limit once per round.)\n[elder_sign] effect: +1. After this test ends, you may return a skill card you committed to this skill test to it's owners hand (do not shuffle it into their deck).",
         "traits": "Civic. Dreamer.",
         "type_code": "investigator"
+		,
+		"image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040.png",
+        "back_image_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040b.png"
       },
       {
         "code": "40001",
