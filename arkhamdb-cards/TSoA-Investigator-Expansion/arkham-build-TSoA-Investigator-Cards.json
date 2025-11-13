@@ -1,15 +1,16 @@
 {
   "meta": {
-    "code": "Shadow-Expansion",
-    "name": "Shadow-Expansion",
+    "code": "TSoA-Expansion",
+    "name": "The Shadows of Arkham Investigator Expansion",
     "description": "An unofficial fan-made investigator expansion.",
     "author": "Kyo",
     "language": "en",
     "external_link": "",
-    "banner_url": "",
+    "banner_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/banner.png",
     "types": ["player_cards", "investigators"],
+    "date_release": "2025-11-12T00:00:00.000Z",
     "status": "final",
-    "date_updated": "2025-06-29T19:44:25.825Z",
+    "date_updated": "2025-11-12T00:00:00.000Z",
     "generator": "AD 1.5, AHLCG plugin 9.0, Strange Eons 3.4a3"
   },
   "data": {
@@ -17,7 +18,7 @@
       {
         "back_flavor": "Chiaki Asami lived with his parents in an unstable country on the brink of rebellion. Just a child, he was forced to watch as the ensuing chaos stole his family from him. Forming a small group with refugees including Akira Hojo, he attempted flee the country. Only the two of them had survived by the time they reached the new world of Arkham. Chiaki was disgusted by the state of society when he saw the broken city. He vowed to take the political reins of Arkham and steer it towards a brighter future. Criminals, the corrupt, and even the abyss itself be damned.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, <b><i>Favor</i></b> cards level 0-3, up to 5 other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 3 Policy, 2 Push for Progress, On Borrowed Time, 1 random basic weakness.\n<b>Additional Setup</b>: You begin the game with your Policy cards on their <b><i>Pending</i></b> side.",
-        "code": "40000",
+        "code": "TSoA-Expansion-000",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -78,7 +79,7 @@
       {
         "back_flavor": "Jack always had a knack for getting people what they needed, and for a low enough price to raise eyebrows. As he moved from job to job, he found that he could help people who were in too deep, but only if he was willing to take on the burden himself. His debt grew with each person he saved, and so did the shadiness of his activities. Eventually, he found the police knocking on his door, so he fled into the depths of Arkham. These days, Jack can be found in dark alleys, making deals that the police could hardly imagine, to pay off his most recent debt.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 3 copies of Family Bonds, Prying Eyes, 1 random basic weakness.",
-        "code": "40004",
+        "code": "TSoA-Expansion-004",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -124,7 +125,7 @@
       {
         "back_flavor": "Akira Hojo lived with his father who worked as a doctor in a dangerously unstable country. When the chaos erupted, it took everything from him. He gathered together other suffering children to survive. With Chiaki Asami and few others, he fled the country. Only he and Chiaki managed to survive the journey. When he reached the safety of Arkham, he was met with by a dark, warped city. He decided he would reform the criminal underbelly of Arkham. He vowed to turn these gangsters into a force that could protect Arkham from the anything, be it man or monster.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Rogue cards ([rogue]) level 0. Neutral cards level 0-5.  For every 8 experience you've earned in total, increase the level of Rogue cards you can take by 1 (max level 4)\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 Burning Ambition, 1 Occupational Hazard, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <b><i>Police</i></b> cards.",
-        "code": "40007",
+        "code": "TSoA-Expansion-007",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -181,7 +182,7 @@
       {
         "back_flavor": "The people around Alma always met gruesome fates. As an orphan, whenever she grew close to others, they suffered. As she got older, she realized she was the source of their misfortune---and their deaths. Distraught, she wandered into the depths of Arkham, where she found them: people who didn't care that she was a cursed existence, because they were already damned. She stood up for these kindred souls, who had been left for dead. Together, with new purpose, they would resist the fate forced upon them. She would stand vigil over the Damned as they rewrote their fate.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, <b><i>Ally</i></b> cards level 0-5, Neutral cards level 0-5, and up to 10 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Vagrant Messenger, Inevitable Fate, 1 random basic weakness.",
-        "code": "40011",
+        "code": "TSoA-Expansion-011",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -242,7 +243,7 @@
       {
         "back_flavor": "During every age, terrors would try to invade the world. While most of humanity remained unaware, William was there, holding the final line between the world and the forces outside its understanding. From place to place, age to age, whenever the tides of madness began, he was there, waiting. Sometimes, he wonders if he holds back the chaos, or if his birth marks the start of the apocalypse.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Guardian ([guardian]) and Seeker ([seeker]) skill cards level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Lives Lessons, Cosmic Animosity, 1 random basic weakness.",
-        "code": "40014",
+        "code": "TSoA-Expansion-014",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -296,7 +297,7 @@
       {
         "back_flavor": "Elise, an traveler from England, fled the constraints of her bourgeois Parisian family to chase the world\u2019s mysteries. With camera in hand and album full of wonders, she wandered from Cairo to Kolkata, chasing whispers ranging from the fanatical to the arcane. Her travels brought her to the foggy shores of Innsmouth, Massachusetts. Drawn by rumors of mysterious sightings and ancient ruins, Elise expected only photographs and ghost stories\u2014until she found more than just rumors waiting for her. Her endless curiosity dissuades the cautious and attracts the dangerous as she ventures into the unknown.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Rogue and/or  Survivor events ([rogue] and/or [survivor]) that say \"investigate\" or \"discover\" level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Photo Album, 3 copies of A Sight to See, A World Of Solitude, 1 random basic weakness.\n<b>Additional Setup</b>: You begin each game with 3 copies of A Sight to See set aside, out of play.",
-        "code": "40017",
+        "code": "TSoA-Expansion-017",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -360,7 +361,7 @@
       {
         "back_flavor": "At the Clover Club, Amelia pours drinks for the weary of Arkham. The gamblers, drifters, and lost souls come for whiskey and respite, but some bring whispers of things unseen.\nAs a child, she watched the sea writhe with shapes too vast to be real. Her father vanished there when they crossed the sea. Now, in the club\u2019s dim glow, stories of such shapes creep into the sailors ramblings. And at night, she hears a voice off the horizon, whispering her name.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, <b><i>Spirit</i></b> cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: \"Drinks on me!\", Alone in the World, 1 random basic weakness.",
-        "code": "40022",
+        "code": "TSoA-Expansion-022",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -413,7 +414,7 @@
       {
         "back_flavor": "Growing up on the streets of Armenia, Armen Seropian was surrounded by risk at every turn. While others hesitated, he gambled everything just to see another tomorrow. However, when the Soviets invaded, even Armen recognized a risk too great to take and fled to America. There, he built a reputation as an unmatched gambler, eventually catching the attention of The Syndicate\u2014a powerful, shadowy organization. Forced into what could have been the last game of his life, Armen narrowly won and escaped with his life. But his victory was short-lived. The Syndicate does not lose, and Armen could never truly be allowed to win. Now, he is a marked man, for no can be that lucky. Right?",
         "back_text": "<b>Deck Size</b>: 30\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards 0-5, events and/or skills that \"gain resources\" level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: House Rules, Cheating Accusations, 1 random basic weakness.",
-        "code": "40028",
+        "code": "TSoA-Expansion-028",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -468,7 +469,7 @@
       {
         "back_flavor": "For Wick, his wife was the only light in his life. After her mysterious death, he followed the bloody trail to the door of his own employer. The Syndicate's sudden betrayal was shocking-until Wick uncovers the truth. His wife\u2019s death was no accident, but a failed ritual by a hidden cult festering within the Syndicate. Once their deadliest weapon, he's now their most hunted prey. The underworld turns against him, contracts placed on his head, allies vanish like smoke. Yet Wick moves through the shadows, a ghost of vengeance, hunting the traitors. Every step bringing him closer to where his revenge awaits, and madness whispers his name.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) 0-3, <b><i>Firearm</i></b> cards level 0-4, <b><i>Tactic</i></b> cards level 0-2, Neutral cards level 0-5, up to 5 other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Marked for Death, Abandoned by God, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <b><i>Criminal</i></b> Cards.",
-        "code": "40031",
+        "code": "TSoA-Expansion-031",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -540,7 +541,7 @@
       {
         "back_flavor": "File #56\u2013X\nSubject Class: Yellow\nReal Identity: Unknown \nLast Known Location: Arkham, Massachusetts\nDescription: Subject #56\u2013X (hereinafter \"John Smith\") is a person of approximately 182.88cm in height. At all times, subject wears a traditional western suit and defective wristwatch. All other features vary by report, including perceived age, gender, and nationality.\nParadimensional Capabilities: John Smith changes their appearance over time, making tracking difficult. Reports of temporal distortions resulting in relocation of nearby personal. Subject avoids contact with the organization.\nApproach Procedure: Exercise extreme caution regarding potential paradimensional disturbances.",
         "back_text": "<b>Deck Size</b>: 30\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, cards with \"Encounter\" and/or \"Treachery\" level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Out of sight, 2 copies of Without a Trace, 2 copies of Fading Existence, Existential Overload, 1 random basic weakness.\n<b>Additional Setup</b>: You begin each game with 2 copies of Without a Trace and 2 copies of Fading Existence set aside, out of play.",
-        "code": "40034",
+        "code": "TSoA-Expansion-034",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -602,7 +603,7 @@
       {
         "back_flavor": "Across the underworld, Wick name is whispered in feared as the Syndicate's enforcer\u2014taking lives across the globe. Orphaned as a child, he was raised by the Syndicate to kill without mercy. It's said he once silenced an entire gang in a single night. When his wife, the only light in his cursed life, died mysteriously, he found a trail of strange signs and eldritch horrors. Armed with years of deadly experiences, Wick hunts cultists, monsters, and cosmic horrors alike, following the trail to it's source.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) 0-3, <b><i>Firearm</i></b> cards level 0-4, <b><i>Tactic</i></b> cards level 0-2, Neutral cards level 0-5, up to 5 other Survivor cards ([survivor]) level 0.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Marked for Death, Abandoned by God, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No <b><i>Blessed</i></b> and/or <b><i>Fortune</i></b> cards.",
-        "code": "40039",
+        "code": "TSoA-Expansion-039",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -674,7 +675,7 @@
       {
         "back_flavor": "From boyhood, Elijah Simmons dreamed in impossible colors\u2014of lost cities, whispering gods, and skies that bent the stars. His tales made others laugh, but he always knew they were more than dreams. In retirement, drawn to quiet Kingsport, sleep became stranger still. Now he meets other Elijahs\u2014older, broken, waiting. They wear different faces, but speak with one voice: \u201cStop what\u2019s coming, or you\u2019ll join us. Another echo in the dream.\u201d Haunted and unsure, Elijah wakes each night with their warning. With the wisdom of a thousand voices, he must tell his own story.",
         "back_text": "<b>Deck Size</b>: 30\n<b>Trait Choice</b>: At deck creation, choose up to 2: <b><i>Insight</i></b>, <b><i>Spell</i></b>, or <b><i>Trick</i></b>. If you choose 2, gain +5 Deck Size.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, cards, and up to 15 other events of your chosen trait(s) 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 [per_investigator] copies of The Best of Times, The Worst of Times, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: You begin each game with 1 [per_investigator] copies of The Best of Times set aside, out of play. When the first investigation phase of the game begins: Shuffle 1 copy of The Best of Times into each players deck. They are considered the owner of the card for the scenario.",
-        "code": "40040",
+        "code": "TSoA-Expansion-040",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -798,7 +799,7 @@
         "back_thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40040b-thumb.png"
       },
       {
-        "code": "40001",
+        "code": "TSoA-Expansion-001",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -821,7 +822,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40001-thumb.jpg"
       },
       {
-        "code": "40002",
+        "code": "TSoA-Expansion-002",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -840,7 +841,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40002-thumb.jpg"
       },
       {
-        "code": "40005",
+        "code": "TSoA-Expansion-005",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "neutral",
@@ -861,7 +862,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40005-thumb.jpg"
       },
       {
-        "code": "40006",
+        "code": "TSoA-Expansion-006",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -882,7 +883,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40006-thumb.jpg"
       },
       {
-        "code": "40008",
+        "code": "TSoA-Expansion-008",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -907,7 +908,7 @@
       {
         "bonded_count": 1,
         "bonded_to": "Burning Ambition",
-        "code": "40009",
+        "code": "TSoA-Expansion-009",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -927,7 +928,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40009-thumb.jpg"
       },
       {
-        "code": "40010",
+        "code": "TSoA-Expansion-010",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -946,7 +947,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40010-thumb.jpg"
       },
       {
-        "code": "40012",
+        "code": "TSoA-Expansion-012",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -970,7 +971,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40012-thumb.jpg"
       },
       {
-        "code": "40013",
+        "code": "TSoA-Expansion-013",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "\"Not again! I'm sorry. I'm so sorry.\"",
@@ -989,7 +990,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40013-thumb.jpg"
       },
       {
-        "code": "40015",
+        "code": "TSoA-Expansion-015",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1011,7 +1012,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40015-thumb.jpg"
       },
       {
-        "code": "40016",
+        "code": "TSoA-Expansion-016",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1030,7 +1031,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40016-thumb.jpg"
       },
       {
-        "code": "40018",
+        "code": "TSoA-Expansion-018",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "neutral",
@@ -1051,7 +1052,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40018-thumb.jpg"
       },
       {
-        "code": "40019",
+        "code": "TSoA-Expansion-019",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1074,7 +1075,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40019-thumb.jpg"
       },
       {
-        "code": "40021",
+        "code": "TSoA-Expansion-021",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1093,7 +1094,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40021-thumb.jpg"
       },
       {
-        "code": "40023",
+        "code": "TSoA-Expansion-023",
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1115,7 +1116,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40023-thumb.jpg"
       },
       {
-        "code": "40024",
+        "code": "TSoA-Expansion-024",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1134,7 +1135,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40024-thumb.jpg"
       },
       {
-        "code": "40025",
+        "code": "TSoA-Expansion-025",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1155,7 +1156,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40025-thumb.jpg"
       },
       {
-        "code": "40026",
+        "code": "TSoA-Expansion-026",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1176,7 +1177,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40026-thumb.jpg"
       },
       {
-        "code": "40027",
+        "code": "TSoA-Expansion-027",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1197,7 +1198,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40027-thumb.jpg"
       },
       {
-        "code": "40029",
+        "code": "TSoA-Expansion-029",
         "cost": 0,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1219,7 +1220,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40029-thumb.jpg"
       },
       {
-        "code": "40030",
+        "code": "TSoA-Expansion-030",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1238,7 +1239,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40030-thumb.jpg"
       },
       {
-        "code": "40032",
+        "code": "TSoA-Expansion-032",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1260,7 +1261,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40032-thumb.jpg"
       },
       {
-        "code": "40033",
+        "code": "TSoA-Expansion-033",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1279,7 +1280,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40033-thumb.jpg"
       },
       {
-        "code": "40035",
+        "code": "TSoA-Expansion-035",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -1300,7 +1301,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40035-thumb.jpg"
       },
       {
-        "code": "40036",
+        "code": "TSoA-Expansion-036",
         "deck_limit": 2,
         "enemy_damage": 0,
         "enemy_evade": 2,
@@ -1322,7 +1323,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40036-thumb.jpg"
       },
       {
-        "code": "40037",
+        "code": "TSoA-Expansion-037",
         "deck_limit": 2,
         "faction_code": "neutral",
         "flavor": "",
@@ -1340,7 +1341,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40037-thumb.jpg"
       },
       {
-        "code": "40038",
+        "code": "TSoA-Expansion-038",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1359,7 +1360,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40038-thumb.jpg"
       },
       {
-        "code": "40041",
+        "code": "TSoA-Expansion-041",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1379,7 +1380,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40041-thumb.jpg"
       },
       {
-        "code": "40042",
+        "code": "TSoA-Expansion-042",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -1398,7 +1399,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/40042-thumb.jpg"
       },
       {
-        "code": "43025",
+        "code": "TSoA-Expansion-025",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1419,7 +1420,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43025-thumb.jpg"
       },
       {
-        "code": "43026",
+        "code": "TSoA-Expansion-026",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1440,7 +1441,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43026-thumb.jpg"
       },
       {
-        "code": "43027",
+        "code": "TSoA-Expansion-027",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1462,7 +1463,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43027-thumb.jpg"
       },
       {
-        "code": "43028",
+        "code": "TSoA-Expansion-028",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1482,7 +1483,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43028-thumb.jpg"
       },
       {
-        "code": "43029",
+        "code": "TSoA-Expansion-029",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1502,7 +1503,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43029-thumb.jpg"
       },
       {
-        "code": "43030",
+        "code": "TSoA-Expansion-030",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1523,7 +1524,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43030-thumb.jpg"
       },
       {
-        "code": "43031",
+        "code": "TSoA-Expansion-031",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -1542,7 +1543,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43031-thumb.jpg"
       },
       {
-        "code": "43032",
+        "code": "TSoA-Expansion-032",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1563,7 +1564,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43032-thumb.jpg"
       },
       {
-        "code": "43033",
+        "code": "TSoA-Expansion-033",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1584,7 +1585,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43033-thumb.jpg"
       },
       {
-        "code": "43034",
+        "code": "TSoA-Expansion-034",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "guardian",
@@ -1604,7 +1605,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43034-thumb.jpg"
       },
       {
-        "code": "43035",
+        "code": "TSoA-Expansion-035",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1625,7 +1626,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43035-thumb.jpg"
       },
       {
-        "code": "43036",
+        "code": "TSoA-Expansion-036",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -1645,7 +1646,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43036-thumb.jpg"
       },
       {
-        "code": "43037",
+        "code": "TSoA-Expansion-037",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1669,7 +1670,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43037-thumb.jpg"
       },
       {
-        "code": "43038",
+        "code": "TSoA-Expansion-038",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1690,7 +1691,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43038-thumb.jpg"
       },
       {
-        "code": "43039",
+        "code": "TSoA-Expansion-039",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -1711,7 +1712,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43039-thumb.jpg"
       },
       {
-        "code": "43040",
+        "code": "TSoA-Expansion-040",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -1730,7 +1731,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43040-thumb.jpg"
       },
       {
-        "code": "43041",
+        "code": "TSoA-Expansion-041",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1755,7 +1756,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43041-thumb.jpg"
       },
       {
-        "code": "43042",
+        "code": "TSoA-Expansion-042",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1778,7 +1779,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43042-thumb.jpg"
       },
       {
-        "code": "43043",
+        "code": "TSoA-Expansion-043",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1798,7 +1799,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43043-thumb.jpg"
       },
       {
-        "code": "43044",
+        "code": "TSoA-Expansion-044",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1818,7 +1819,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43044-thumb.jpg"
       },
       {
-        "code": "43045",
+        "code": "TSoA-Expansion-045",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1838,7 +1839,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43045-thumb.jpg"
       },
       {
-        "code": "43046",
+        "code": "TSoA-Expansion-046",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1857,7 +1858,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43046-thumb.jpg"
       },
       {
-        "code": "43047",
+        "code": "TSoA-Expansion-047",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1878,7 +1879,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43047-thumb.jpg"
       },
       {
-        "code": "43048",
+        "code": "TSoA-Expansion-048",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1898,7 +1899,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43048-thumb.jpg"
       },
       {
-        "code": "43049",
+        "code": "TSoA-Expansion-049",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1918,7 +1919,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43049-thumb.jpg"
       },
       {
-        "code": "43050",
+        "code": "TSoA-Expansion-050",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1939,7 +1940,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43050-thumb.jpg"
       },
       {
-        "code": "43051",
+        "code": "TSoA-Expansion-051",
         "deck_limit": 1,
         "exceptional": true,
         "faction_code": "seeker",
@@ -1960,7 +1961,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43051-thumb.jpg"
       },
       {
-        "code": "43052",
+        "code": "TSoA-Expansion-052",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -1985,7 +1986,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43052-thumb.jpg"
       },
       {
-        "code": "43053",
+        "code": "TSoA-Expansion-053",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -2008,7 +2009,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43053-thumb.jpg"
       },
       {
-        "code": "43054",
+        "code": "TSoA-Expansion-054",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -2031,7 +2032,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43054-thumb.jpg"
       },
       {
-        "code": "43055",
+        "code": "TSoA-Expansion-055",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -2052,7 +2053,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43055-thumb.jpg"
       },
       {
-        "code": "43056",
+        "code": "TSoA-Expansion-056",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -2074,7 +2075,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43056-thumb.jpg"
       },
       {
-        "code": "43057",
+        "code": "TSoA-Expansion-057",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2096,7 +2097,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43057-thumb.jpg"
       },
       {
-        "code": "43058",
+        "code": "TSoA-Expansion-058",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "rogue",
@@ -2116,7 +2117,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43058-thumb.jpg"
       },
       {
-        "code": "43059",
+        "code": "TSoA-Expansion-059",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2138,7 +2139,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43059-thumb.jpg"
       },
       {
-        "code": "43060",
+        "code": "TSoA-Expansion-060",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2159,7 +2160,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43060-thumb.jpg"
       },
       {
-        "code": "43061",
+        "code": "TSoA-Expansion-061",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2179,7 +2180,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43061-thumb.jpg"
       },
       {
-        "code": "43062",
+        "code": "TSoA-Expansion-062",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2199,7 +2200,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43062-thumb.jpg"
       },
       {
-        "code": "43063",
+        "code": "TSoA-Expansion-063",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2219,7 +2220,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43063-thumb.jpg"
       },
       {
-        "code": "43064",
+        "code": "TSoA-Expansion-064",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2240,7 +2241,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43064-thumb.jpg"
       },
       {
-        "code": "43065",
+        "code": "TSoA-Expansion-065",
         "deck_limit": 2,
         "faction_code": "rogue",
         "flavor": "",
@@ -2260,7 +2261,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43065-thumb.jpg"
       },
       {
-        "code": "43066",
+        "code": "TSoA-Expansion-066",
         "deck_limit": 2,
         "faction_code": "rogue",
         "flavor": "",
@@ -2281,7 +2282,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43066-thumb.jpg"
       },
       {
-        "code": "43067",
+        "code": "TSoA-Expansion-067",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2303,7 +2304,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43067-thumb.jpg"
       },
       {
-        "code": "43068",
+        "code": "TSoA-Expansion-068",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2325,7 +2326,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43068-thumb.jpg"
       },
       {
-        "code": "43069",
+        "code": "TSoA-Expansion-069",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2347,7 +2348,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43069-thumb.jpg"
       },
       {
-        "code": "43070",
+        "code": "TSoA-Expansion-070",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2368,7 +2369,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43070-thumb.jpg"
       },
       {
-        "code": "43071",
+        "code": "TSoA-Expansion-071",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2388,7 +2389,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43071-thumb.jpg"
       },
       {
-        "code": "43072",
+        "code": "TSoA-Expansion-072",
         "cost": 5,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -2414,7 +2415,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43072-thumb.jpg"
       },
       {
-        "code": "43073",
+        "code": "TSoA-Expansion-073",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2435,7 +2436,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43073-thumb.jpg"
       },
       {
-        "code": "43074",
+        "code": "TSoA-Expansion-074",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2456,7 +2457,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43074-thumb.jpg"
       },
       {
-        "code": "43075",
+        "code": "TSoA-Expansion-075",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2477,7 +2478,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43075-thumb.jpg"
       },
       {
-        "code": "43076",
+        "code": "TSoA-Expansion-076",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2498,7 +2499,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43076-thumb.jpg"
       },
       {
-        "code": "43077",
+        "code": "TSoA-Expansion-077",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2518,7 +2519,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43077-thumb.jpg"
       },
       {
-        "code": "43078",
+        "code": "TSoA-Expansion-078",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2539,7 +2540,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43078-thumb.jpg"
       },
       {
-        "code": "43079",
+        "code": "TSoA-Expansion-079",
         "deck_limit": 2,
         "faction_code": "mystic",
         "flavor": "",
@@ -2560,7 +2561,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43079-thumb.jpg"
       },
       {
-        "code": "43080",
+        "code": "TSoA-Expansion-080",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2581,7 +2582,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43080-thumb.jpg"
       },
       {
-        "code": "43081",
+        "code": "TSoA-Expansion-081",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2602,7 +2603,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43081-thumb.jpg"
       },
       {
-        "code": "43082",
+        "code": "TSoA-Expansion-082",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "mystic",
@@ -2623,7 +2624,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43082-thumb.jpg"
       },
       {
-        "code": "43083",
+        "code": "TSoA-Expansion-083",
         "deck_limit": 2,
         "faction_code": "mystic",
         "flavor": "",
@@ -2642,7 +2643,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43083-thumb.jpg"
       },
       {
-        "code": "43084",
+        "code": "TSoA-Expansion-084",
         "cost": 4,
         "deck_limit": 1,
         "exceptional": true,
@@ -2666,7 +2667,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43084-thumb.jpg"
       },
       {
-        "code": "43085",
+        "code": "TSoA-Expansion-085",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2691,7 +2692,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43085-thumb.jpg"
       },
       {
-        "code": "43086",
+        "code": "TSoA-Expansion-086",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2713,7 +2714,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43086-thumb.jpg"
       },
       {
-        "code": "43087",
+        "code": "TSoA-Expansion-087",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -2735,7 +2736,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43087-thumb.jpg"
       },
       {
-        "code": "43088",
+        "code": "TSoA-Expansion-088",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2756,7 +2757,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43088-thumb.jpg"
       },
       {
-        "code": "43089",
+        "code": "TSoA-Expansion-089",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2778,7 +2779,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43089-thumb.jpg"
       },
       {
-        "code": "43090",
+        "code": "TSoA-Expansion-090",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2801,7 +2802,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43090-thumb.jpg"
       },
       {
-        "code": "43091",
+        "code": "TSoA-Expansion-091",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2822,7 +2823,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43091-thumb.jpg"
       },
       {
-        "code": "43092",
+        "code": "TSoA-Expansion-092",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2842,7 +2843,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43092-thumb.jpg"
       },
       {
-        "code": "43093",
+        "code": "TSoA-Expansion-093",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2863,7 +2864,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43093-thumb.jpg"
       },
       {
-        "code": "43094",
+        "code": "TSoA-Expansion-094",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -2882,7 +2883,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43094-thumb.jpg"
       },
       {
-        "code": "43095",
+        "code": "TSoA-Expansion-095",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -2901,7 +2902,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43095-thumb.jpg"
       },
       {
-        "code": "43096",
+        "code": "TSoA-Expansion-096",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -2920,7 +2921,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43096-thumb.jpg"
       },
       {
-        "code": "43097",
+        "code": "TSoA-Expansion-097",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -2939,7 +2940,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43097-thumb.jpg"
       },
       {
-        "code": "43098",
+        "code": "TSoA-Expansion-098",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2963,7 +2964,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43098-thumb.jpg"
       },
       {
-        "code": "43099",
+        "code": "TSoA-Expansion-099",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -2984,7 +2985,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43099-thumb.jpg"
       },
       {
-        "code": "43100",
+        "code": "TSoA-Expansion-100",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3005,7 +3006,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43100-thumb.jpg"
       },
       {
-        "code": "43101",
+        "code": "TSoA-Expansion-101",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -3024,7 +3025,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43101-thumb.jpg"
       },
       {
-        "code": "43102",
+        "code": "TSoA-Expansion-102",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -3043,7 +3044,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43102-thumb.jpg"
       },
       {
-        "code": "43103",
+        "code": "TSoA-Expansion-103",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -3062,7 +3063,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43103-thumb.jpg"
       },
       {
-        "code": "43104",
+        "code": "TSoA-Expansion-104",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -3082,7 +3083,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43104-thumb.jpg"
       },
       {
-        "code": "43105",
+        "code": "TSoA-Expansion-105",
         "cost": 2,
         "deck_limit": 2,
         "faction2_code": "mystic",
@@ -3107,7 +3108,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43105-thumb.jpg"
       },
       {
-        "code": "43106",
+        "code": "TSoA-Expansion-106",
         "cost": 0,
         "deck_limit": 2,
         "faction2_code": "survivor",
@@ -3128,7 +3129,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43106-thumb.jpg"
       },
       {
-        "code": "43107",
+        "code": "TSoA-Expansion-107",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3148,7 +3149,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43107-thumb.jpg"
       },
       {
-        "code": "43108",
+        "code": "TSoA-Expansion-108",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3169,7 +3170,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43108-thumb.jpg"
       },
       {
-        "code": "43109",
+        "code": "TSoA-Expansion-109",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3189,7 +3190,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43109-thumb.jpg"
       },
       {
-        "code": "43110",
+        "code": "TSoA-Expansion-110",
         "deck_limit": 2,
         "faction_code": "neutral",
         "flavor": "",
@@ -3207,7 +3208,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43110-thumb.jpg"
       },
       {
-        "code": "43111",
+        "code": "TSoA-Expansion-111",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3229,7 +3230,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43111-thumb.jpg"
       },
       {
-        "code": "43112",
+        "code": "TSoA-Expansion-112",
         "cost": null,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3249,7 +3250,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43112-thumb.jpg"
       },
       {
-        "code": "43113",
+        "code": "TSoA-Expansion-113",
         "faction_code": "neutral",
         "flavor": "\"I can feel them crawling under my skin!\"",
         "illustrator": "Unknown",
@@ -3265,7 +3266,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43113-thumb.jpg"
       },
       {
-        "code": "43114",
+        "code": "TSoA-Expansion-114",
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "LelandSolomonDesigns",
@@ -3281,7 +3282,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43114-thumb.jpg"
       },
       {
-        "code": "43115",
+        "code": "TSoA-Expansion-115",
         "cost": 4,
         "deck_limit": 2,
         "faction2_code": "mystic",
@@ -3304,7 +3305,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43115-thumb.jpg"
       },
       {
-        "code": "43116",
+        "code": "TSoA-Expansion-116",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -3325,7 +3326,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43116-thumb.jpg"
       },
       {
-        "code": "43117",
+        "code": "TSoA-Expansion-117",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3346,7 +3347,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43117-thumb.jpg"
       },
       {
-        "code": "43118",
+        "code": "TSoA-Expansion-118",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3368,7 +3369,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43118-thumb.jpg"
       },
       {
-        "code": "43119",
+        "code": "TSoA-Expansion-119",
         "cost": 3,
         "deck_limit": 2,
         "faction2_code": "survivor",
@@ -3391,7 +3392,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43119-thumb.jpg"
       },
       {
-        "code": "43120",
+        "code": "TSoA-Expansion-120",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3413,7 +3414,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43120-thumb.jpg"
       },
       {
-        "code": "43121",
+        "code": "TSoA-Expansion-121",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "rogue",
@@ -3436,7 +3437,7 @@
       },
       {
         "bonded_to": "Repossession Contract",
-        "code": "43122",
+        "code": "TSoA-Expansion-122",
         "cost": 0,
         "deck_limit": 0,
         "faction_code": "rogue",
@@ -3456,7 +3457,7 @@
       },
       {
         "bonded_to": "Repossession Contract",
-        "code": "43123",
+        "code": "TSoA-Expansion-123",
         "cost": 0,
         "deck_limit": 0,
         "faction_code": "rogue",
@@ -3476,7 +3477,7 @@
       },
       {
         "bonded_to": "Repossession Contract",
-        "code": "43124",
+        "code": "TSoA-Expansion-124",
         "cost": 0,
         "deck_limit": 0,
         "faction_code": "rogue",
@@ -3495,7 +3496,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43124-thumb.jpg"
       },
       {
-        "code": "43125",
+        "code": "TSoA-Expansion-125",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3515,7 +3516,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43125-thumb.jpg"
       },
       {
-        "code": "43126",
+        "code": "TSoA-Expansion-126",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -3536,7 +3537,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43126-thumb.jpg"
       },
       {
-        "code": "43127",
+        "code": "TSoA-Expansion-127",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -3557,7 +3558,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43127-thumb.jpg"
       },
       {
-        "code": "43128",
+        "code": "TSoA-Expansion-128",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -3578,7 +3579,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43128-thumb.jpg"
       },
       {
-        "code": "43129",
+        "code": "TSoA-Expansion-129",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -3599,7 +3600,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43129-thumb.jpg"
       },
       {
-        "code": "43130",
+        "code": "TSoA-Expansion-130",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3620,7 +3621,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43130-thumb.jpg"
       },
       {
-        "code": "43131",
+        "code": "TSoA-Expansion-131",
         "cost": 2,
         "deck_limit": 2,
         "faction2_code": "survivor",
@@ -3644,7 +3645,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43131-thumb.jpg"
       },
       {
-        "code": "43132",
+        "code": "TSoA-Expansion-132",
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3670,7 +3671,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43132-thumb.jpg"
       },
       {
-        "code": "43133",
+        "code": "TSoA-Expansion-133",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -3692,7 +3693,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43133-thumb.jpg"
       },
       {
-        "code": "43134",
+        "code": "TSoA-Expansion-134",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -3713,7 +3714,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43134-thumb.jpg"
       },
       {
-        "code": "43135",
+        "code": "TSoA-Expansion-135",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -3734,7 +3735,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43135-thumb.jpg"
       },
       {
-        "code": "43136",
+        "code": "TSoA-Expansion-136",
         "deck_limit": 2,
         "faction_code": "survivor",
         "flavor": "",
@@ -3753,7 +3754,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43136-thumb.jpg"
       },
       {
-        "code": "43137",
+        "code": "TSoA-Expansion-137",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -3772,7 +3773,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43137-thumb.jpg"
       },
       {
-        "code": "43138",
+        "code": "TSoA-Expansion-138",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -3794,7 +3795,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43138-thumb.jpg"
       },
       {
-        "code": "43139",
+        "code": "TSoA-Expansion-139",
         "deck_limit": 2,
         "faction_code": "guardian",
         "flavor": "",
@@ -3814,7 +3815,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43139-thumb.jpg"
       },
       {
-        "code": "43140",
+        "code": "TSoA-Expansion-140",
         "cost": 3,
         "deck_limit": 1,
         "exceptional": true,
@@ -3836,7 +3837,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43140-thumb.jpg"
       },
       {
-        "code": "43141",
+        "code": "TSoA-Expansion-141",
         "cost": 3,
         "deck_limit": 1,
         "exceptional": true,
@@ -3858,7 +3859,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43141-thumb.jpg"
       },
       {
-        "code": "43142",
+        "code": "TSoA-Expansion-142",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -3878,7 +3879,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43142-thumb.jpg"
       },
       {
-        "code": "43143",
+        "code": "TSoA-Expansion-143",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -3898,7 +3899,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43143-thumb.jpg"
       },
       {
-        "code": "43144",
+        "code": "TSoA-Expansion-144",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -3918,7 +3919,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43144-thumb.jpg"
       },
       {
-        "code": "43145",
+        "code": "TSoA-Expansion-145",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -3938,7 +3939,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43145-thumb.jpg"
       },
       {
-        "code": "43147",
+        "code": "TSoA-Expansion-147",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3960,7 +3961,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43147-thumb.jpg"
       },
       {
-        "code": "43149",
+        "code": "TSoA-Expansion-149",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -3979,7 +3980,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43149-thumb.jpg"
       },
       {
-        "code": "43150",
+        "code": "TSoA-Expansion-150",
         "cost": 4,
         "deck_limit": 2,
         "faction2_code": "survivor",
@@ -4006,7 +4007,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43150-thumb.jpg"
       },
       {
-        "code": "43151",
+        "code": "TSoA-Expansion-151",
         "deck_limit": 2,
         "faction_code": "neutral",
         "flavor": "",
@@ -4024,7 +4025,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43151-thumb.jpg"
       },
       {
-        "code": "43152",
+        "code": "TSoA-Expansion-152",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "neutral",
@@ -4043,7 +4044,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43152-thumb.jpg"
       },
       {
-        "code": "43153",
+        "code": "TSoA-Expansion-153",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -4063,7 +4064,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43153-thumb.jpg"
       },
       {
-        "code": "43154",
+        "code": "TSoA-Expansion-154",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -4083,7 +4084,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43154-thumb.jpg"
       },
       {
-        "code": "43155",
+        "code": "TSoA-Expansion-155",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -4103,7 +4104,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43155-thumb.jpg"
       },
       {
-        "code": "43156",
+        "code": "TSoA-Expansion-156",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "rogue",
@@ -4125,7 +4126,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43156-thumb.jpg"
       },
       {
-        "code": "43157",
+        "code": "TSoA-Expansion-157",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "seeker",
@@ -4147,7 +4148,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43157-thumb.jpg"
       },
       {
-        "code": "43158",
+        "code": "TSoA-Expansion-158",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "seeker",
@@ -4170,7 +4171,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43158-thumb.jpg"
       },
       {
-        "code": "43159",
+        "code": "TSoA-Expansion-159",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "seeker",
@@ -4193,7 +4194,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43159-thumb.jpg"
       },
       {
-        "code": "43160",
+        "code": "TSoA-Expansion-160",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "seeker",
@@ -4216,7 +4217,7 @@
         "thumbnail_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/43160-thumb.jpg"
       },
       {
-        "code": "43161",
+        "code": "TSoA-Expansion-161",
         "cost": 6,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -4243,27 +4244,27 @@
       {
         "code": "kyo_encounter",
         "name": "kyo_encounter",
-        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F195009-animals-cat.jpg&f=1&nofb=1&ipt=66fcb9362c17cf034c43089051165fa210eb5c3ec2d307e005a8743c84889795"
+        "icon_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/set_symbol_white.png"
       }
     ],
     "packs": [
       {
         "code": "kyo_investigator",
         "name": "kyo_investigator",
-        "date_release": "2025-01-01",
-        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F195009-animals-cat.jpg&f=1&nofb=1&ipt=66fcb9362c17cf034c43089051165fa210eb5c3ec2d307e005a8743c84889795"
+        "date_release": "2025-11-12",
+        "icon_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/set_symbol_white.png"
       },
       {
         "code": "kyo_signatures",
         "name": "kyo_signatures",
-        "date_release": "2025-01-01",
-        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F195009-animals-cat.jpg&f=1&nofb=1&ipt=66fcb9362c17cf034c43089051165fa210eb5c3ec2d307e005a8743c84889795"
+        "date_release": "2025-11-12",
+        "icon_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/set_symbol_white.png"
       },
       {
         "code": "kyo_player",
         "name": "kyo_player",
-        "date_release": "2025-01-01",
-        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F195009-animals-cat.jpg&f=1&nofb=1&ipt=66fcb9362c17cf034c43089051165fa210eb5c3ec2d307e005a8743c84889795"
+        "date_release": "2025-11-12",
+        "icon_url": "https://Samurai-Kyo.github.io/arkhamdb-cards/TSoA-Investigator-Expansion/set_symbol_white.png"
       }
     ]
   }
