@@ -149,11 +149,11 @@
           {
             "name": "Hojo's Rank",
             "id": "hojos-rank",
+            "faction": ["rogue"],
             "option_select": [
               {
-                "id": "default",
-                "name": "Default",
-                "faction": ["rogue"],
+                "id": "exp-0plus",
+                "name": "Exp: 0+",
                 "level": {
                   "min": 0,
                   "max": 0
@@ -162,7 +162,6 @@
               {
                 "id": "exp-8plus",
                 "name": "Exp: 8+",
-                "faction": ["rogue"],
                 "level": {
                   "min": 0,
                   "max": 1
@@ -171,7 +170,6 @@
               {
                 "id": "exp-16plus",
                 "name": "Exp: 16+",
-                "faction": ["rogue"],
                 "level": {
                   "min": 0,
                   "max": 2
@@ -180,7 +178,6 @@
               {
                 "id": "exp-24plus",
                 "name": "Exp: 24+",
-                "faction": ["rogue"],
                 "level": {
                   "min": 0,
                   "max": 3
@@ -189,7 +186,6 @@
               {
                 "id": "exp-32plus",
                 "name": "Exp: 32+",
-                "faction": ["rogue"],
                 "level": {
                   "min": 0,
                   "max": 4
